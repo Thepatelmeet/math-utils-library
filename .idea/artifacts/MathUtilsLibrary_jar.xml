@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MathUtilsLibrary:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MathUtilsLibrary_jar</output-path>
+    <root id="archive" name="MathUtilsLibrary.jar">
+      <element id="module-output" name="MathUtilsLibrary" />
+    </root>
+  </artifact>
+</component>
